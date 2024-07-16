@@ -12,5 +12,9 @@ Input:
 Output
    simple interest = p*r*t
 ```
+<<<<<<< HEAD
 2023 XYZ, Inc.
 2024 XYZ, Inc.
+=======
+© 2023 XYZ, Inc.
+>>>>>>> origin/bug-fix-typo
